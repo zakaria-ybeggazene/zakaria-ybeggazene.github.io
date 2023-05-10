@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://zakaria-ybeggazene.github.io/ar/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zakaria-ybeggazene.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://zakaria-ybeggazene.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://zakaria-ybeggazene.github.io/ar/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://zakaria-ybeggazene.github.io/ar/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zakaria-ybeggazene.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://zakaria-ybeggazene.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://zakaria-ybeggazene.github.io/ar/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://zakaria-ybeggazene.github.io/ar/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://zakaria-ybeggazene.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://zakaria-ybeggazene.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://zakaria-ybeggazene.github.io/ar/"
+                />
+  </url>
+  
+</urlset>
