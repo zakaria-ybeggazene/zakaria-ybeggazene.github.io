@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data on Zakaria YBEGGAZENE</title>
+    <link>http://zakaria-ybeggazene.github.io/tags/data/</link>
+    <description>Recent content in data on Zakaria YBEGGAZENE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2023 20:20:42 +0200</lastBuildDate>
+    
+	<atom:link href="http://zakaria-ybeggazene.github.io/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zakaria&#39;s personal website</title>
+      <link>http://zakaria-ybeggazene.github.io/</link>
+      <pubDate>Tue, 09 May 2023 20:20:42 +0200</pubDate>
+      
+      <guid>http://zakaria-ybeggazene.github.io/</guid>
+      <description>Welcome to my personal website.</description>
+    </item>
+    
+  </channel>
+</rss>
